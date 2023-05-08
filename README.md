@@ -152,10 +152,9 @@ Authentication schemes defined for the API:
 - **Location**: HTTP header
 
 
-## Author
+## Authors
 
-team@appwrite.io
-
+- [Grzegorz Kusmierz](https://github.com/gkusmierz)
 
 ## License
 
